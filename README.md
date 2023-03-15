@@ -82,3 +82,14 @@ Car dealers profits for a particular brand are affected by a decline in sales.
 A decline in car brand sales affects the contribution of that brand to Canada's GDP.
 High sales of certain car brands result in a shift in demand from dealers to manufacturers products.
 Manufacturers increase production in response to high sales figures of certain car brands.
+
+
+Percentage count
+
+CanadaCarSales['YOY'] = CanadaCarSales.Sumofsales.diff()
+DecreasedSales        = CanadaCarSales.groupby(['Year']).sum()['Sumofsales'].diff()
+SumSalesEachYear      = CanadaCarSales.groupby(['Year']).sum()['Sumofsales']
+SumSalesEachYear
+whole = 390825
+percentage = (SumSalesEachYear / whole) * 100
+percentage
