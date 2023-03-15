@@ -21,3 +21,8 @@ https://app.colaberry.com/app/network/network/960/previewprojectsteps
 https://3.basecamp.com/3945211/buckets/24864171/messages/4632765819#__recording_4739158256
 
 https://3.basecamp.com/3945211/buckets/24864192/messages/4823967081
+
+
+Use Video for Gif
+
+https://www.youtube.com/watch?v=Hb9Qd5GQAow
