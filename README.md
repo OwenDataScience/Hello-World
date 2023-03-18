@@ -11,7 +11,13 @@ https://www.youtube.com/watch?v=eGaImwD8fPQ
 
 ShareX
 
+https://www.youtube.com/watch?v=roVOf9J8XyU
+
+https://www.youtube.com/watch?v=hxKGkVduwDU
+
 https://www.youtube.com/watch?v=CtO29m-C_sg
+
+https://www.youtube.com/watch?v=trsRrnrcb64
 
 
 STRESS TEST 3
