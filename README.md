@@ -105,6 +105,9 @@ percentage
 
 
 ROAD TEST
+
+https://saaq.gouv.qc.ca/en/drivers-licences/demerit-points
+
 https://testdeconnaissances.saaq.gouv.qc.ca/en/quiz/question/category/road-signs-and-traffic-signals/code/2017  (ROAD SIGNS)
 https://tests.ca/quebec/quebec-driving-test-practice/ (TEST)
 
