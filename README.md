@@ -101,3 +101,10 @@ SumSalesEachYear
 whole = 390825
 percentage = (SumSalesEachYear / whole) * 100
 percentage
+
+
+
+ROAD TEST
+https://testdeconnaissances.saaq.gouv.qc.ca/en/quiz/question/category/road-signs-and-traffic-signals/code/2017  (ROAD SIGNS)
+https://tests.ca/quebec/quebec-driving-test-practice/ (TEST)
+
