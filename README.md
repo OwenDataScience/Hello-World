@@ -38,33 +38,6 @@ https://www.youtube.com/watch?v=Hb9Qd5GQAow
 https://www.youtube.com/watch?v=5LRiGr80MkM
 
 
-
-
-
-
-SET UP FOR PROJECT
-
-Canada Cars Sales Figures (2019-2021) Project Summary
-
-The Canada Cars Sales Figures project is an analysis of the Canadian automotive industry from 2019 to 2021. The objective of this project is to understand the trends and patterns in the Canadian car market, including the sales rate for various car brands, types of cars, and provinces.
-
-The Government of Canada is also supporting the industrial transformation of the transportation sector and building a green economy to achieve net-zero greenhouse gas emissions by 2050. The government is developing a made-in-Canada EV and battery ecosystem. This analysis was also drawn to know the Highest sold car brands that can be invested in.
-
-The findings of this analysis can be used by car manufacturers, dealerships, and policymakers to make informed decisions about marketing, sales, and policy development in the Canadian automotive industry.
-
-
-
-# SECOND OPTION
-
-Canada Cars Sales Figures (2019-2021) Project Summary
-
-The Canada Cars Sales Figures project is an analysis of the Canadian automotive industry from 2019 to 2021. The objective of this project is to understand the trends and patterns in the Canadian car market, including the sales rate for various car brands, types of cars, and provinces.
-
-The findings of this analysis can be used by car manufacturers, dealerships, and policymakers to make informed decisions about marketing, sales, and policy development in the Canadian automotive industry.
-
-The Canadian government is also working with stakeholders, as well as federal, provincial and territorial partners, to support large-scale transformative projects across the country .
-
-
 --
 
 Canada Government Report at which various car brands are Topping sales and Declining in sales:  https://www.goodcarbadcar.net/2021-canada-vehicle-sales-figures-by-brand/
@@ -92,16 +65,6 @@ High sales of certain car brands result in a shift in demand from dealers to man
 Manufacturers increase production in response to high sales figures of certain car brands.
 
 
-Percentage count
-
-CanadaCarSales['YOY'] = CanadaCarSales.Sumofsales.diff()
-DecreasedSales        = CanadaCarSales.groupby(['Year']).sum()['Sumofsales'].diff()
-SumSalesEachYear      = CanadaCarSales.groupby(['Year']).sum()['Sumofsales']
-SumSalesEachYear
-whole = 390825
-percentage = (SumSalesEachYear / whole) * 100
-percentage
-
 
 
 ROAD TEST
@@ -114,4 +77,9 @@ https://tests.ca/quebec/quebec-driving-test-practice/ (TEST)
 
 
 https://replit.com/@sireode/day-1-printing-start
+
+
+PROJECTS FOR UDEMY
+https://app.codingrooms.com/management/dashboard
+
 
